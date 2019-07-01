@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# Title : Send a message to slack
+# Title       : Send a message to slack
 # Description : Send a message to slack
-# How to Use : ./slack_sendmessage.sh [message]
-# Maker : LT
-# Date : 2018.12.12.
+# How to Use  : ./slack_sendmessage.sh [message]
+# Maker       : LT
+# Date        : 2018.12.12.
 
 
 
