@@ -3,8 +3,9 @@
 # Title       : Backup - webhome directory
 # Description : Backup - webhome directory
 # How to Use  : ./backup_webhome.sh
-# Date        : 2018.11.14.
 # Maker       : LT
+# Date        : 2018.11.14.
+# OS          : Linux
 
 
 ### Set variable

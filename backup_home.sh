@@ -3,8 +3,9 @@
 # Title       : Backup - /home directory
 # Description : Backup - /home directory
 # How to Use  : ./backup_home.sh
-# Date        : 2017.12.12.
 # Maker       : LT
+# Date        : 2017.12.12.
+# OS          : Linux
 
 
 

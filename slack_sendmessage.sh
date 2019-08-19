@@ -5,6 +5,7 @@
 # How to Use  : ./slack_sendmessage.sh [message]
 # Maker       : LT
 # Date        : 2018.12.12.
+# OS          : Linux
 
 
 
