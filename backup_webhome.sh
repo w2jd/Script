@@ -8,6 +8,7 @@
 # OS          : Linux
 
 
+
 ### Set variable
 TODAY=`date +'%Y%m%d'`
 REMOVEDAY=`date +'%Y%m%d' -d '5 days ago'`
