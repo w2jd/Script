@@ -20,7 +20,7 @@ import datetime
 pattern_square_bracket = re.compile('^\[.*\]')
 
 ### check argument
-if len(sys.argv) != 2 or sys.argv[1] == '-h' or sys.argv[1] == 'help':
+if len(sys.argv) != 2 or sys.argv[1] == '-h' or sys.argv[1] == 'help' or not(os.path.isdir(sys.argv[1])):
     print(" Program     : Tidy directory")
     print(" Description : Tidy directory by specific format")
     print("               ex> [manual] server1.pdf, [manual] server2.pdf → [manual]\\server1.pdf")
